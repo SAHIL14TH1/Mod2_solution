@@ -1,0 +1,53 @@
+{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+.box {
+    width: 700px
+}
+h1 {
+    text-align: center;
+    padding: 20px;
+}
+h4 {
+    margin: 0px;
+    padding: 5px;
+    border: 1px solid black;
+    border-top: 0px;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
+p {
+    color: #0a0c0a;
+    padding: 50px 17px 10px 17px;
+}
+.backgroud-1 {
+    background-color: #00ff11b9;
+}
+.backgroud-2 {
+    background-color: #2200ff;
+}
+.backgroud-3 {
+    background-color: #ffe600;
+    color: #ffffff;
+}
+.p-section {
+    height: 255px;
+    background-color: #97756f;
+    border: 1px solid rgb(12, 10, 10);
+    margin-bottom: 30px;
+    position: relative;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+!**************** Desktop *******************!
+@media (min-width: 992px) {
+}
+!**************** Tablet *******************!
+@media (min-width: 768px) and (max-width: 991px) {
+}
+!**************** Mobile *******************!
+@media (max-width: 767px) {
+}
